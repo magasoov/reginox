@@ -1,0 +1,269 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.section-main{
+    width: 100%;
+    height: 811px;
+    background: url(../images/slide\ 1.png);
+    background-size: cover;
+    background-position: center;
+}
+.header1{
+    padding-left: 15%;
+    padding-right: 15%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.navlist a{
+    margin: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+.header2{
+    padding-left: 15%;
+    padding-right: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+}
+.header3{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 30px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar div a{
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+.section-main1{
+    width: 100%;
+    height: 410px;
+}
+.main1{
+    height: 330px;
+    background: #ECECEC;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.ocnova1-h1{
+    font-size: 64px;
+    font-weight: 800;
+    color: #FFFFFF;
+}
+.ocnova1-p{
+    font-size: 28px;
+    font-weight: 200;
+    color: #FFFFFF;
+    padding-top: 20px;
+}
+.ocnova{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.ocnova1{
+    margin-top: 80px;
+}
+.button{
+    padding-top: 100px;
+    display: flex;
+    justify-content: flex-end;
+}
+.main1-h1{
+    font-size: 70px;
+    font-weight: 700;
+    color: #7a7878;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+.main1 .main2{
+    display: flex;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+.catalog{
+    margin-top: 100px;
+    width: 100%;
+}
+.catalog-main{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.catalog-main h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+.img1{
+    display: flex;
+    justify-content: center;
+}
+.img1 img{
+    margin: 10px 10px;
+}
+.main0img{
+    margin-top: 20px;
+}
+.popular{
+    margin-top: 100px;
+    width: 100%;
+}
+.popular-main{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.popular-main h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+.img12{
+    display: flex;
+    justify-content: center;
+}
+.img12 div{
+    margin: 10px 10px;
+}
+.img1-1{
+    height: 440px;
+    width: 383px;
+    background: #ECECEC;
+}
+.img1-2{
+    height: 440px;
+    width: 383px;
+    background: #ECECEC;
+}
+.img1-3{
+    height: 440px;
+    width: 383px;
+    background: #ECECEC;
+}
+.main0i2mg{
+    margin-top: 50px;
+}
+.img22{
+    display: flex;
+    justify-content: center;
+}
+.img22 div{
+    margin: 10px 10px;
+}
+.img1-111{
+    height: 440px;
+    width: 383px;
+    background: #ECECEC;
+}
+.img1-222{
+    height: 440px;
+    width: 383px;
+    background: #ECECEC;
+}
+.img1-333{
+    height: 440px;
+    width: 383px;
+    background: #ECECEC;
+}
+.img01aushev{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.aushev{
+    padding-top: 50px;
+}
+.classs{
+    text-align: center;
+    font-size: 18px;
+}
+.classss{
+    padding-left: 59px;
+}
+.img1-2-1{
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+    justify-content: center;
+}
+.about{
+    margin-top: 100px;
+    padding-left: 15%;
+    padding-right: 15%;
+    font-size: 20px;
+}
+.about-main{
+    display: flex;
+    justify-content: center;
+}
+.about h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+.about-ocnova{
+    margin-top: 50px;
+}
+.ullist{
+    padding-left: 50px;
+}
+.ullist li{
+    color: red;
+}
+span{
+    color: black;
+}
+.footer{
+    margin-top: 150px;
+    padding-left: 15%;
+    padding-right: 15%;
+    font-size: 20px;
+}
+.footer-main{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-nav{
+    margin-top: 20px;
+}
+.footer-nav a{
+    text-decoration: none;
+    color: #666565;
+}
+.footer1{
+    height: 225px;
+    margin-top: 100px;
+    padding-left: 15%;
+    padding-right: 15%;
+    background: #ECECEC;
+}
+.footer1-main1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 100px;
+}
+.footer-navbar a{
+    margin: 5px;
+}
+.imagess{
+    padding-left: 50px;
+}
+footer{
+    margin-top: 10px;
+    padding-left: 15%;
+    padding-right: 15%;
+    display: flex;
+    justify-content: space-between;
+}
